@@ -2,5 +2,10 @@
 
 
 void main(){
-    printf("Hello World!!");
+    int a;
+    int b;
+    int c;
+
+
+    // printf("Hello World!!");
 }
