@@ -6,6 +6,5 @@ void main(){
     char b;
     int c;
 
-
     // printf("Hello World!!");
 }
