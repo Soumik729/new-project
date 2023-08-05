@@ -2,9 +2,5 @@
 
 
 void main(){
-    int a;
-    char b;
-    int c;
-
-    // printf("Hello World!!");
+    printf("Bye World!!");
 }
