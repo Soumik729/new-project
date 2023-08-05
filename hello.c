@@ -6,5 +6,8 @@ void main(){
     char b;
     int c;
 
+
+    printf("Hii");
+    
     // printf("Hello World!!");
 }
